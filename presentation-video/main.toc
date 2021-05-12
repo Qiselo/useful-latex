@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Problème de recherche}{2}{0}{1}
+\beamer@sectionintoc {2}{Conclusion}{4}{0}{2}
